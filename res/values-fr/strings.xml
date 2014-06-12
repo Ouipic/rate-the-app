@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="rta_app_name">Rate The App</string>
+    
+    <string name="rta_dialog_title">Noter cette application</string>
+    <string name="rta_dialog_message">Si vous aimez cette application, prenez un moment pour la noter. Merci pour votre soutien !</string>
+    
+    <string name="rta_dialog_bt_ok">Noter maintenant</string>
+    <string name="rta_dialog_bt_ko">Non, merci</string>
+    <string name="rta_dialog_bt_later">Rappeler plus tard</string>
+
+</resources>
